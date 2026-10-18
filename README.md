@@ -12,12 +12,7 @@
 
 ## About Me
 
-I build applications and turn data into clear answers.
-
-- 🎓 **BSc in Computer Science** from Umm Al-Qura University (2026), First Honors
-- 📊 Currently in the **SDA x Le Wagon Data Science & AI Bootcamp**
-- 🏥 Former **IT Intern at Al Muzaylif General Hospital**, where I built an IT ticket system used across 10+ departments
-- 🔧 I enjoy projects that join **development** and **data**: an app on the front, a model or a database behind it
+Developer passionate about building applications and analyzing data. I enjoy creating solutions from frontend to backend, and turning data into clear, practical insights that support better decisions.
 
 ## Tech Stack
 
